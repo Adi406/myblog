@@ -1,0 +1,13 @@
+body{
+text-align:center;
+background: linear-gradient(#f7b600 0%,#f76800 100%);
+}
+#image{
+    width:250px;}
+.menu{list-style: none;
+font-family: cursive;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: black;}
